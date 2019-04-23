@@ -1,0 +1,51 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:bf="http://id.loc.gov/ontologies/bibframe/" 
+	xmlns:dc="http://dublincore.org/schemas/xmls/qdc/2003/04/02/dc.xsd" 
+	xmlns:dcterms="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" 
+	xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" 
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+	xmlns:foaf="http://xmlns.com/foaf/spec//index.rdf" 
+	xml:base="http://semanticweb.org/visionsofgutenberg/Gutenberg">
+<rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/Gutenberg">
+<rdf:type rdf:resource="http://xmlns.com/foaf/spec/#term_Person"/>
+<rdf:type rdf:resource="http://dbpedia.org/class/yago/Printer110475297"/>
+<foaf:name>Johannes Gutenberg</foaf:name>
+<foaf:name>Johannes Gensfleisch zur Laden zum Gutenberg</foaf:name>
+<foaf:gender>Male</foaf:gender>
+<core:dateOfBirth>1400?</core:dateOfBirth>
+<core:placeOfBirth>Mainz</core:placeOfBirth>
+<core:dateOfDeath>3/2/1468</core:dateOfDeath>
+<core:placeOfDeath>Mainz</core:placeOfDeath>
+<bf:language>German</bf:language>
+<eac-cpf:biogHist>
+Johannes Gutenberg was a German blacksmith, goldsmith, inventor, printer, and publisher who introduced mechanical movable type printing to Europe. He is considered to be the starter of the so called Printing Revolution, a milestone in human history. He invented the moveable type, the ink and the printing press. 
+</eac-cpf:biogHist>
+<eac-cpf:occupation>Printer, inventor, blacksmith</eac-cpf:occupation>
+<foaf:interest>Printing, Typography</foaf:interest>
+<eac-cpf:resourceRelation rdf:parseType="Resource">
+	<eac-cpf:resourceRelationType>Associate of</eac-cpf:resourceRelationType>
+	<dcterms:relation rdf:resource="https://viaf.org/processed/DNB%7C118838881"/>
+	<dc:description>
+	Gutenberg founded a societas with the goldsmith Johann Fust to print the christian Bible. Fust loaned Gutenberg 1600 dutch florins with which he could hire 20 workers and buy the printing materials.
+	</dc:description>
+	<dc:date>1450</dc:date>
+</eac-cpf:resourceRelation>
+<eac-cpf:resourceRelation rdf:parseType="Resource">
+	<eac-cpf:resourceRelationType>Printer of</eac-cpf:resourceRelationType>
+	<dcterms:relation rdf:resource="http://semanticweb.org/visionsofgutenberg/42lineBible"/>
+	<dc:description>
+	Gutenberg printed the 42-line Bible as the earliest major book using mass-produced movable metal type in Europe.
+	</dc:description>
+	<dc:date>1455</dc:date>
+</eac-cpf:resourceRelation>
+
+<owl:sameAs rdf:resource="https://viaf.org/viaf/9815820/"/>
+<foaf:isPrimaryTopicOf rdf:resource="http://www.gutenberg-museum.de/index.php?id=29&L=1"/>
+<foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Johannes_Gutenberg"/>
+<dcterms:ispartOf rdf:resource="http://id.loc.gov/vocabulary/relators/prt"/>
+<skos:related rdf:resource="http://viaf.org/viaf/222144783012221996488"/>
+<skos:related rdf:resource="http://semanticweb.org/visionsofgutenberg/GutenbergPortrait"/>
+
+</rdf:description>
+</rdf:RDF>

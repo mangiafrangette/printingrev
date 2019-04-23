@@ -1,0 +1,51 @@
+﻿<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:bf="http://id.loc.gov/ontologies/bibframe/" 
+	xmlns:dc="http://dublincore.org/schemas/xmls/qdc/2003/04/02/dc.xsd" 
+	xmlns:dcterms="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" 
+	xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" 
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+	xmlns:foaf="http://xmlns.com/foaf/spec//index.rdf" 
+	xml:base="http://semanticweb.org/visionsofgutenberg/Manuzio">
+<rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/Manuzio">
+<rdf:type rdf:resource="http://xmlns.com/foaf/spec/#term_Person"/>
+<rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatItalianRenaissanceHumanists"/>
+<foaf:name>Aldo Manuzio</foaf:name>
+<foaf:name>Aldus Pius Manutius</foaf:name>
+<foaf:gender>Male</foaf:gender>
+<core:dateOfBirth>1449?</core:dateOfBirth>
+<core:placeOfBirth>Bassiano</core:placeOfBirth>
+<core:dateOfDeath>06/02/1515</core:dateOfDeath>
+<core:placeOfDeath>Venezia</core:placeOfDeath>
+<bf:language>Italian</bf:language>
+<bf:language>Latin</bf:language>
+<eac-cpf:biogHist>
+Aldo Manuzio was an Italian editor, grammarian and humanist. He is considered to be one of the major editors of all times, and also one of the first editors in the modern sense at all. Founder of the Aldine Press, he introduced the italic type and the octavo size. 
+</eac-cpf:biogHist>
+<eac-cpf:occupation>Editor, grammarian, humanist</eac-cpf:occupation>
+<foaf:interest>Printing, Publishing, Typography</foaf:interest>
+<eac-cpf:resourceRelation rdf:parseType="Resource">
+	<eac-cpf:resourceRelationType>Client of</eac-cpf:resourceRelationType>
+	<dcterms:relation rdf:resource="https://viaf.org/viaf/51189284/"/>
+	<dc:description>
+	Aldo Manuzio in 1501 bought typographical characters from Francesco Griffo in order to use them in one of his printed series of books.
+	</dc:description>
+	<dc:date>1501</dc:date>
+</eac-cpf:resourceRelation>
+<eac-cpf:resourceRelation rdf:parseType="Resource">
+	<eac-cpf:resourceRelationType>Printer of</eac-cpf:resourceRelationType>
+	<dcterms:relation rdf:resource="http://semanticweb.org/visionsOfgutenberg/HypnerotomachiaPoliphili"/>
+	<dc:description>
+	Manuzio printed the Hypnerotomachia Poliphili, one of the first books printed in Italy and also considered by reneissance people as the most beautiful book ever printed.
+	</dc:description>
+	<dc:date>1499</dc:date>
+</eac-cpf:resourceRelation>
+
+<owl:sameAs rdf:resource="http://viaf.org/viaf/96325760"/>
+<foaf:isPrimaryTopicOf rdf:resource="http://id.sbn.it/bid/MIL0267110"/>
+<foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Aldus_Manutius"/>
+<dcterms:ispartOf rdf:resource="http://id.loc.gov/vocabulary/relators/prt"/>
+<skos:related rdf:resource="http://viaf.org/viaf/54144140"/>
+
+</rdf:description>
+</rdf:RDF>

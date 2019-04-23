@@ -1,0 +1,27 @@
+﻿<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:gn="http://www.geonames.org/ontology/ontology_v3.1.rdf"
+  	xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+	xmlns:foaf="http://xmlns.com/foaf/spec//index.rdf" 
+	xml:base="http://semanticweb.org/visionsofgutenberg/Venezia">
+<rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/Venezia">
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<gn:name xml:lang="it">Venezia</gn:name>
+<gn:name xml:lang="en">Venice</gn:name>
+<gn:alternativeName>City of Masks</gn:alternativeName>
+<gn:countryCode>IT</gn:countryCode>
+<wgs84_pos:lat>45° 26' 13"</wgs84_POS:lat>
+<wgs84_pos:long>12° 19' 57"</wgs84_POS:long>
+
+<owl:sameAs rdf:resource="http://dbpedia.org/page/Venice"/>
+<owl:sameAs rdf:resource="http://vocab.getty.edu/page/tgn/7018159"/>
+<owl:differentFrom rdf:resource="http://viaf.org/viaf/246300305"/>
+<skos:broader rdf:resource="http://dbpedia.org/page/Mestre"/>
+<skos:narrower rdf:resource="http://viaf.org/viaf/151265946"/>
+<skos:related rdf:resource="http://viaf.org/viaf/264405984"/>
+<skos:related rdf:resource="http://semanticweb.org/visionsofgutenberg/HypnerotomachiaPoliphili"/>
+<foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Venice"/>
+
+</rdf:description>
+</rdf:RDF>

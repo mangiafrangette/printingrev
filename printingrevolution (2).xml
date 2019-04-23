@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:bf="http://id.loc.gov/ontologies/bibframe/" 
+	xmlns:dc="http://dublincore.org/schemas/xmls/qdc/2003/04/02/dc.xsd" 
+	xmlns:dcterms="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" 
+	xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/"
+	xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" 
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+	xmlns:foaf="http://xmlns.com/foaf/spec//index.rdf" 
+	xml:base="http://semanticweb.org/visionsofgutenberg/PrintingRevolution">
+<rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/PrintingRevolution">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdfs:label xml:lang="en">Printing Press Revolution</rdfs:label>
+<dc:subject rdf:resource="http://dbpedia.org/page/Printing_press"/>
+<dc:description>A fundamental process started in Western Europe around 1450 that contributed to a bigger diffusion of culture and books through all Europe. This revolution affected all knowledge domains as Geography, history, literature, religion, astronomy and printing press became a tool to convey knowledge and propaganda. Indeed printing press was a fundamental tool for Protestants and Roman Church to share their messages along Europe.</dc:description>
+<dcterms:spatial>Europe</dcterms:spatial>
+<dcterms:temporal>1400, 1500</dcterms:temporal>
+<crm:P10_falls_within rdf:resource="http://dbpedia.org/page/Middle_Ages"/>
+<crm:P10_falls_within rdf:resource="http://dbpedia.org/page/Renaissance"/>
+
+<owl:sameAs rdf:resource="http://id.loc.gov/authorities/subjects/sh85106826"/>
+<owl:differentFrom rdf:resource="http://id.loc.gov/authorities/subjects/sh85147844"/>
+<dcterms:ispartOf rdf:resource="http://id.loc.gov/vocabulary/relators/prt"/>
+<skos:related rdf:resource="https://en.wikipedia.org/wiki/Johannes_Gutenberg"/>
+<skos:broader rdf:resource="http://dbpedia.org/page/Category:German_inventions"/>
+<skos:broader rdf:resource="http://dbpedia.org/page/Category:Technology_in_society"/>
+<skos:broader rdf:resource="http://dbpedia.org/page/Category:Protestant_Reformation"/>
+<skos:broader rdf:resource="http://dbpedia.org/page/Category:History_of_printing"/>
+<skos:broader rdf:resource="http://dbpedia.org/page/Revolution"/>
+<skos:narrower rdf:resource="http://dbpedia.org/page/Typography"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/page/Category:Printing_Revolution"/>
+
+</rdf:description>
+</rdf:RDF>

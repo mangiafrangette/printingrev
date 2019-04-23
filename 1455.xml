@@ -1,0 +1,23 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://dublincore.org/schemas/xmls/qdc/2003/04/02/dc.xsd" 
+	xmlns:dcterms="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" 
+	xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/"
+	xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" 
+	xmlns:foaf="http://xmlns.com/foaf/spec//index.rdf" 
+	xml:base="http://semanticweb.org/visionsofgutenberg/1455">
+<rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/1455">
+<rdf:type rdf:resource="http://dbpedia.org/ontology/TimePeriod"/>
+<rdf:type rdf:resource="http://dbpedia.org/ontology/Year"/>
+<dc:date>1455</dc:date>
+<crm:P10_falls_within rdf:resource="http://dbpedia.org/page/Middle_Ages"/>
+<eac-cpf:resourceRelation rdf:parseType="Resource">
+	<eac-cpf:resourceRelationType>Creation of</eac-cpf:resourceRelationType>
+	<dcterms:relation rdf:resource="http://semanticweb.org/visionsofgutenberg/42lineBible"/>
+	<dc:description>
+	</dc:description>
+</eac-cpf:resourceRelation>
+
+<foaf:isPrimaryTopicOf rdf:resource="https://it.wikipedia.org/wiki/1455"/>
+
+</rdf:description>
+</rdf:RDF>
