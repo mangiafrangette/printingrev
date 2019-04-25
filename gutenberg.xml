@@ -4,7 +4,8 @@
 	xmlns:dcterms="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" 
 	xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" 
 	xmlns:owl="http://www.w3.org/2002/07/owl#"
-	xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:core="http://www.bbc.co.uk/ontologies/coreconcepts/"
 	xmlns:foaf="http://xmlns.com/foaf/spec//index.rdf" 
 	xml:base="http://semanticweb.org/visionsofgutenberg/Gutenberg">
 <rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/Gutenberg">
