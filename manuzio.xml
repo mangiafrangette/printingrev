@@ -25,7 +25,7 @@ Aldo Manuzio was an Italian editor, grammarian and humanist. He is considered to
 <eac-cpf:occupation>Editor, grammarian, humanist</eac-cpf:occupation>
 <foaf:interest>Printing, Publishing, Typography</foaf:interest>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
-	<eac-cpf:resourceRelationType>Client of</eac-cpf:resourceRelationType>
+	<eac-cpf:resourceRelationType>other</eac-cpf:resourceRelationType>
 	<dcterms:relation rdf:resource="https://viaf.org/viaf/51189284/"/>
 	<dc:description>
 	Aldo Manuzio in 1501 bought typographical characters from Francesco Griffo in order to use them in one of his printed series of books.
@@ -33,7 +33,7 @@ Aldo Manuzio was an Italian editor, grammarian and humanist. He is considered to
 	<dc:date>1501</dc:date>
 </eac-cpf:resourceRelation>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
-	<eac-cpf:resourceRelationType>Printer of</eac-cpf:resourceRelationType>
+	<eac-cpf:resourceRelationType>creatorOf</eac-cpf:resourceRelationType>
 	<dcterms:relation rdf:resource="http://semanticweb.org/visionsOfgutenberg/HypnerotomachiaPoliphili"/>
 	<dc:description>
 	Manuzio printed the Hypnerotomachia Poliphili, one of the first books printed in Italy and also considered by reneissance people as the most beautiful book ever printed.
