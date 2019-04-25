@@ -11,7 +11,7 @@
 <dc:date>1455</dc:date>
 <crm:P10_falls_within rdf:resource="http://dbpedia.org/page/Middle_Ages"/>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
-	<eac-cpf:resourceRelationType>Creation of</eac-cpf:resourceRelationType>
+	<eac-cpf:resourceRelationType>other</eac-cpf:resourceRelationType>
 	<dcterms:relation rdf:resource="http://semanticweb.org/visionsofgutenberg/42lineBible"/>
 	<dc:description>
 	</dc:description>
