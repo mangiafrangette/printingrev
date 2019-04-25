@@ -45,7 +45,7 @@ Aldo Manuzio was an Italian editor, grammarian and humanist. He is considered to
 <owl:sameAs rdf:resource="http://viaf.org/viaf/96325760"/>
 <foaf:isPrimaryTopicOf rdf:resource="http://id.sbn.it/bid/MIL0267110"/>
 <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Aldus_Manutius"/>
-<dcterms:ispartOf rdf:resource="http://id.loc.gov/vocabulary/relators/prt"/>
+<dcterms:ispartOf rdf:resource="http://id.loc.gov/vocabulary/relators/pbl"/>
 <skos:related rdf:resource="http://viaf.org/viaf/54144140"/>
 
 </rdf:description>
