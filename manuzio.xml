@@ -4,18 +4,19 @@
 	xmlns:dcterms="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" 
 	xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" 
 	xmlns:owl="http://www.w3.org/2002/07/owl#"
-	xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:core="http://www.bbc.co.uk/ontologies/coreconcepts/"
 	xmlns:foaf="http://xmlns.com/foaf/spec//index.rdf" 
 	xml:base="http://semanticweb.org/visionsofgutenberg/Manuzio">
 <rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/Manuzio">
 <rdf:type rdf:resource="http://xmlns.com/foaf/spec/#term_Person"/>
 <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatItalianRenaissanceHumanists"/>
-<foaf:name>Aldo Manuzio</foaf:name>
-<foaf:name>Aldus Pius Manutius</foaf:name>
+<foaf:name xml:lang="it">Aldo Manuzio</foaf:name>
+<foaf:name xml:lang="la">Aldus Pius Manutius</foaf:name>
 <foaf:gender>Male</foaf:gender>
 <core:dateOfBirth>1449?</core:dateOfBirth>
 <core:placeOfBirth>Bassiano</core:placeOfBirth>
-<core:dateOfDeath>06/02/1515</core:dateOfDeath>
+<core:dateOfDeath>1515-02-06</core:dateOfDeath>
 <core:placeOfDeath>Venezia</core:placeOfDeath>
 <bf:language>Italian</bf:language>
 <bf:language>Latin</bf:language>
