@@ -11,7 +11,7 @@
 	xml:base="http://semanticweb.org/visionsofgutenberg/Incunable">
 <rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/Incunable">
 <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-<rdfs:label xml:lang="lat">Incunabulum</rdfs:label>
+<rdfs:label xml:lang="la">Incunabulum</rdfs:label>
 <dc:subject rdf:resource="http://dbpedia.org/page/Incunable"/>
 <dc:description>Incunabula (plural form for incunabulum) is a term to refer to the first modern books, conventionally those ones printed with moveable types between the XV century and 1500 included.</dc:description>
 <dcterms:spatial>Europe</dcterms:spatial>
