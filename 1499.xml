@@ -11,7 +11,7 @@
 <dc:date>1455</dc:date>
 <crm:P10_falls_within rdf:resource="http://dbpedia.org/page/Renaissance"/>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
-	<eac-cpf:resourceRelationType>Creation of</eac-cpf:resourceRelationType>
+	<eac-cpf:resourceRelationType>other</eac-cpf:resourceRelationType>
 	<dcterms:relation rdf:resource="http://semanticweb.org/visionsofgutenberg/HypnerotomachiaPoliphili"/>
 	<dc:description>
 In december 1499 this book was printed in Venice by Aldus Manutius, enriched with 169 xylographic illustrations.
