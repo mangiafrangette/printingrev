@@ -10,7 +10,7 @@
 <rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/1499">
 <rdf:type rdf:resource="http://dbpedia.org/ontology/TimePeriod"/>
 <rdf:type rdf:resource="http://dbpedia.org/ontology/Year"/>
-<dc:date>1455</dc:date>
+<dc:date>1499</dc:date>
 <crm:P10_falls_within rdf:resource="http://dbpedia.org/page/Renaissance"/>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
 	<eac-cpf:resourceRelationType>other</eac-cpf:resourceRelationType>
