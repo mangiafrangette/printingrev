@@ -7,8 +7,8 @@
 	xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" 
 	xmlns:owl="http://www.w3.org/2002/07/owl#"
 	xmlns:skos="http://www.w3.org/2004/02/skos/core#"  
-	xml:base="http://semanticweb.org/visionsofgutenberg/Incunable">
-<rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/Incunable">
+	xml:base="http://semanticweb.org/visionsofgutenberg/Incunabulum">
+<rdf:description rdf:about="http://semanticweb.org/visionsofgutenberg/Incunabulum">
 <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 <rdfs:label xml:lang="la">Incunabulum</rdfs:label>
 <dc:subject rdf:resource="http://dbpedia.org/page/Incunable"/>
