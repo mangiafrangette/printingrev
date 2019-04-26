@@ -16,6 +16,7 @@
 	<eac-cpf:resourceRelationType>other</eac-cpf:resourceRelationType>
 	<dcterms:relation rdf:resource="http://semanticweb.org/visionsofgutenberg/42lineBible"/>
 	<dc:description>
+		The 1455 Bible, also called 42 line Bible or Gutenberg Bible, is the first complete book extant in the West. 
 	</dc:description>
 </eac-cpf:resourceRelation>
 
