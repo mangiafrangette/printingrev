@@ -28,7 +28,7 @@ Johannes Gutenberg was a German blacksmith, goldsmith, inventor, printer, and pu
 <foaf:interest>Printing, Typography</foaf:interest>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
 	<eac-cpf:resourceRelationType>other</eac-cpf:resourceRelationType>
-	<dcterms:relation rdf:resource="https://viaf.org/processed/DNB%7C118838881"/>
+	<dcterms:relation rdf:resource="http://viaf.org/viaf/88647567"/>
 	<dc:description>
 	Gutenberg founded a societas with the goldsmith Johann Fust to print the christian Bible. Fust loaned Gutenberg 1600 dutch florins with which he could hire 20 workers and buy the printing materials.
 	</dc:description>
