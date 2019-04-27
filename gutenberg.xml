@@ -27,7 +27,7 @@ Johannes Gutenberg was a German blacksmith, goldsmith, inventor, printer, and pu
 <eac-cpf:occupation>Printer, inventor, blacksmith</eac-cpf:occupation>
 <foaf:interest>Printing, Typography</foaf:interest>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
-	<eac-cpf:resourceRelationType>other</eac-cpf:resourceRelationType>
+	<eac-cpf:resourceRelationType>Associate Of</eac-cpf:resourceRelationType>
 	<dcterms:relation rdf:resource="https://viaf.org/processed/DNB%7C118838881"/>
 	<dc:description>
 	Gutenberg founded a societas with the goldsmith Johann Fust to print the christian Bible. Fust loaned Gutenberg 1600 dutch florins with which he could hire 20 workers and buy the printing materials.
@@ -35,7 +35,7 @@ Johannes Gutenberg was a German blacksmith, goldsmith, inventor, printer, and pu
 	<dc:date>1450</dc:date>
 </eac-cpf:resourceRelation>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
-	<eac-cpf:resourceRelationType>creatorOf</eac-cpf:resourceRelationType>
+	<eac-cpf:resourceRelationType>Creator Of</eac-cpf:resourceRelationType>
 	<dcterms:relation rdf:resource="http://semanticweb.org/visionsofgutenberg/42lineBible"/>
 	<dc:description>
 	Gutenberg printed the 42-line Bible as the earliest major book using mass-produced movable metal type in Europe.
