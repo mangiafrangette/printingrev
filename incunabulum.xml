@@ -14,7 +14,7 @@
 <dc:subject rdf:resource="http://dbpedia.org/page/Incunable"/>
 <dc:description>Incunabula (plural form for incunabulum) is a term to refer to the first modern books, conventionally those ones printed with moveable types between the XV century and 1500 included.</dc:description>
 <dcterms:spatial>Europe</dcterms:spatial>
-<dcterms:temporal>XV century, 1500</dcterms:temporal>
+<dcterms:temporal>15th century, 1500</dcterms:temporal>
 <crm:P10_falls_within rdf:resource="http://dbpedia.org/page/Middle_Ages"/>
 <crm:P10_falls_within rdf:resource="http://dbpedia.org/page/Renaissance"/>
 
