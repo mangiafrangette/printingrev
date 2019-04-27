@@ -37,7 +37,7 @@ Aldo Manuzio was an Italian editor, grammarian and humanist. He is considered to
 </eac-cpf:resourceRelation>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
 	<eac-cpf:resourceRelationType>Creator Of</eac-cpf:resourceRelationType>
-	<dcterms:relation rdf:resource="http://semanticweb.org/visionsOfgutenberg/HypnerotomachiaPoliphili"/>
+	<dcterms:relation rdf:resource="http://semanticweb.org/visionsofgutenberg/HypnerotomachiaPoliphili"/>
 	<dc:description>
 	Manuzio printed the Hypnerotomachia Poliphili, one of the first books printed in Italy and also considered by reneissance people as the most beautiful book ever printed.
 	</dc:description>
