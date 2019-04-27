@@ -19,10 +19,10 @@
 <owl:sameAs rdf:resource="http://dbpedia.org/page/Mainz"/>
 <owl:sameAs rdf:resource="http://vocab.getty.edu/tgn/7004449"/>
 <owl:differentFrom rdf:resource="https://en.wikipedia.org/wiki/SMS_Mainz"/>
-<skos:broader rdf:resource="http://viaf.org/viaf/123770945"/>
-<skos:narrower rdf:resource="http://viaf.org/viaf/123162663"/>
+<skos:narrower rdf:resource="http://viaf.org/viaf/123770945"/>
+<skos:broader rdf:resource="http://viaf.org/viaf/123162663"/>
 <skos:related rdf:resource="http://viaf.org/viaf/120776855"/>
-<skos:related rdf:resource="http://semanticweb.org/visionsOfgutenberg/42LinesBible"/>
+<skos:related rdf:resource="http://semanticweb.org/visionsOfgutenberg/42lineBible"/>
 <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Mainz"/>
 
 </rdf:description>
