@@ -13,8 +13,8 @@
 <gn:name xml:lang="en">Venice</gn:name>
 <gn:alternativeName>City of Masks</gn:alternativeName>
 <gn:countryCode>IT</gn:countryCode>
-<wgs84_pos:lat>45° 26' 13"</wgs84_POS:lat>
-<wgs84_pos:long>12° 19' 57"</wgs84_POS:long>
+<wgs84_pos:lat>45° 26' 13"</wgs84_pos:lat>
+<wgs84_pos:long>12° 19' 57"</wgs84_pos:long>
 
 <owl:sameAs rdf:resource="http://dbpedia.org/page/Venice"/>
 <owl:sameAs rdf:resource="http://vocab.getty.edu/page/tgn/7018159"/>
