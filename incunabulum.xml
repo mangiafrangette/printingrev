@@ -22,9 +22,8 @@
 <skos:related rdf:resource="https://en.wikipedia.org/wiki/Manuscript"/>
 <skos:broader rdf:resource="http://dbpedia.org/page/Category:15th-century_books"/>
 <skos:broader rdf:resource="http://dbpedia.org/ontology/Book"/>
-<skos:broader rdf:resource="http://dbpedia.org/page/Revolution"/>
 <skos:narrower rdf:resource="http://semanticweb.org/visionsofgutenberg/HypnerotomachiaPoliphili"/>
-<skos:narrower rdf:resource="http://semanticweb.org/visionsofgutenberg/42lineBible"/>
-
+<skos:narrower rdf:resource="http://semanticweb.org/visionsofgutenberg/42LineBible"/>
+	
 </rdf:description>
 </rdf:RDF>
