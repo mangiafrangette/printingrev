@@ -19,8 +19,8 @@
 <owl:sameAs rdf:resource="http://dbpedia.org/page/Venice"/>
 <owl:sameAs rdf:resource="http://vocab.getty.edu/page/tgn/7018159"/>
 <owl:differentFrom rdf:resource="http://viaf.org/viaf/246300305"/>
-<skos:broader rdf:resource="http://dbpedia.org/page/Mestre"/>
-<skos:narrower rdf:resource="http://viaf.org/viaf/151265946"/>
+<skos:narrower rdf:resource="http://dbpedia.org/page/Mestre"/>
+<skos:broader rdf:resource="http://viaf.org/viaf/151265946"/>
 <skos:related rdf:resource="http://viaf.org/viaf/264405984"/>
 <skos:related rdf:resource="http://semanticweb.org/visionsofgutenberg/HypnerotomachiaPoliphili"/>
 <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Venice"/>
