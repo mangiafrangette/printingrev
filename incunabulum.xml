@@ -23,7 +23,7 @@
 <skos:broader rdf:resource="http://dbpedia.org/page/Category:15th-century_books"/>
 <skos:broader rdf:resource="http://dbpedia.org/ontology/Book"/>
 <skos:narrower rdf:resource="http://semanticweb.org/visionsofgutenberg/HypnerotomachiaPoliphili"/>
-<skos:narrower rdf:resource="http://semanticweb.org/visionsofgutenberg/42LineBible"/>
+<skos:narrower rdf:resource="http://semanticweb.org/visionsofgutenberg/42lineBible"/>
 	
 </rdf:description>
 </rdf:RDF>
