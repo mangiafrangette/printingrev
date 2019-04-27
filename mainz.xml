@@ -13,8 +13,8 @@
 <gn:name xml:lang="it">Magonza</gn:name>
 <gn:alternativeName>Meenz</gn:alternativeName>
 <gn:countryCode>DE</gn:countryCode>
-<wgs84_pos:lat>49° 59' 3"</wgs84_POS:lat>
-<wgs84_pos:long>8° 16' 44"</wgs84_POS:long>
+<wgs84_pos:lat>49° 59' 3"</wgs84_pos:lat>
+<wgs84_pos:long>8° 16' 44"</wgs84_pos:long>
 
 <owl:sameAs rdf:resource="http://dbpedia.org/page/Mainz"/>
 <owl:sameAs rdf:resource="http://vocab.getty.edu/tgn/7004449"/>
