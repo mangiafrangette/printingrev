@@ -20,7 +20,6 @@
 
 <owl:sameAs rdf:resource="http://id.loc.gov/authorities/subjects/sh85106826"/>
 <owl:differentFrom rdf:resource="http://id.loc.gov/authorities/subjects/sh85147844"/>
-<dcterms:ispartOf rdf:resource="http://id.loc.gov/vocabulary/relators/prt"/>
 <skos:related rdf:resource="https://en.wikipedia.org/wiki/Johannes_Gutenberg"/>
 <skos:broader rdf:resource="http://dbpedia.org/page/Category:German_inventions"/>
 <skos:broader rdf:resource="http://dbpedia.org/page/Category:Technology_in_society"/>
